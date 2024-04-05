@@ -1,5 +1,5 @@
 ﻿#language: ru
-
+@IgnoreOnCIMainBuild
 @ExportScenarios
 
 Функционал: Создание документа Заказ 
